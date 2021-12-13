@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f6fd427032db7d84d89f6a448586f3bd
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 8404be70184654265930450def6a9037, type: 3}
+  generateWrapperCode: 0
+  wrapperCodePath: Assets/Scripts/Input/InputControls.cs
+  wrapperClassName: 
+  wrapperCodeNamespace: Playground.Input

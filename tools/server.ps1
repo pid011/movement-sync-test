@@ -1,0 +1,1 @@
+../build/Playground.exe -quit -batchmode -nographics
